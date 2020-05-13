@@ -1,7 +1,7 @@
 #ifndef SCENE_H
 #define SCENE_H
 
-#include "Entity.h"
+#include "entity.h"
 #include "texture.h"
 
 #include <obj/model.h>
